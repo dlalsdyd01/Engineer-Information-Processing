@@ -40,7 +40,6 @@
 - [UNIX/LINUX 명령어](UNIX_LINUX_명령어.md)
 - [파일 권한](파일_권한.md)
 - [Python 리스트/세트 메소드](Python_리스트_세트_메소드.md)
-- [Python 실기 출제 유형 정리](Python_실기_정리.md)
 
 ## 5과목. 정보시스템 구축관리
 
@@ -58,3 +57,7 @@
 - [클라우드 컴퓨팅](클라우드_컴퓨팅.md)
 - [NAT / ATM](NAT_ATM.md)
 - [RAID](RAID.md)
+
+## 파이썬 실기 정리
+
+- [Python 실기 출제 유형 정리](Python_실기_정리.md)
